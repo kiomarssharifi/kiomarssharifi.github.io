@@ -45,6 +45,7 @@ header:
 # Site footer
 
 footer:
+  block: minimal
   copyright:
     notice: '© {year} Kiomars Sharifi. This work is licensed under {license}'
     license:
