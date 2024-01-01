@@ -23,6 +23,9 @@ role: Neuroscience Researcher
 organizations:
   - name: Sharif University of Technology
     url: https://www.sharif.edu/
+organizations:
+  - name: IPM - Institute for Research in Fundamental Sciences
+    url: https://www.ipm.ac.ir/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
