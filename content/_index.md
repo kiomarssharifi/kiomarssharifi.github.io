@@ -20,7 +20,7 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
+      columns: '1'
       view: showcase
   - block: experience
     content:
