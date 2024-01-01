@@ -21,7 +21,7 @@ sections:
         featured_only: true
     design:
       columns: '1'
-      view: showcase
+      view: compact
   - block: experience
     content:
       title: Experience
