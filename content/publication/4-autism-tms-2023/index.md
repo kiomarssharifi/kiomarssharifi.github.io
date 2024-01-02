@@ -5,7 +5,7 @@ authors:
   - F Dehghani-Arani
   - S Sima
   - A Heydari
-  - K Sharifi
+  - '<u>**K Sharifi**</u>'
   - Y Rahmati
   - R Rostami
   - MA Salehinejad

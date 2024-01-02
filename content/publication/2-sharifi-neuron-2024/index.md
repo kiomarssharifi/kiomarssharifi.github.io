@@ -1,7 +1,7 @@
 ---
 title: Value Pop-out Results from Spatial Enhancement of Object Processing in Prefrontal Cortex
 authors:
-  - K Sharifi
+  - '<u>**K Sharifi**</u>'
   - M Abbaszadeh
   - A Ghazizadeh
 date: '2024-01-01'

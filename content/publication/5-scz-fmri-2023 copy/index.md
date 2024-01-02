@@ -2,7 +2,7 @@
 title: 'Investigating neurocognitive effects of prefrontal stimulation on cognitive deficits in SCZ: a protocol for a randomized sham-controlled tDCS-fMRI study'
 authors:
   - AH Hallajian
-  - K Sharifi
+  - '<u>**K Sharifi**</u>'
   - R Rostami
   - F Vila-Rodriguez
   - MA Salehinejad
