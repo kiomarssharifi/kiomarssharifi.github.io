@@ -3,7 +3,7 @@ title: Cortical and subcortical substrates of minutes and days-long object value
   in humans
 authors:
   - Sepideh Farmani
-  - Kiomars Sharifi
+  - **Kiomars Sharifi**
   - Ali Ghazizadeh
 date: '2024-01-01'
 publishDate: '2024-01-01T07:48:28.645657Z'
