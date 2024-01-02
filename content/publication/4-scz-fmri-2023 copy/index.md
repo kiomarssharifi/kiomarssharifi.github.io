@@ -11,7 +11,7 @@ publishDate: '2023-12-01T07:48:28.645657Z'
 publication_types: ["article-journal"]
 publication: '**Submitted to PLOS One**'
 publication_short: '**Research Square - Submitted to PLOS One**'
-abstract: 
+abstract: Schizophrenia (SCZ) is characterized by cognitive deficits that are linked to prefrontal cortex dysfunction. While transcranial direct current stimulation (tDCS) shows promise for improving cognition, the effects of intensified 3mA tDCS protocols on brain physiology are unknown. This project aims to elucidate the neurophysiological and cognitive effects of an intensified prefrontal tDCS protocol in SCZ.
 tags: []
 featured: true
 links:
