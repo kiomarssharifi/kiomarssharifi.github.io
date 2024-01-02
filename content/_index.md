@@ -26,9 +26,9 @@ sections:
         - title: Research Assistant
           company: Institute for Research in Fundamental Sciences (IPM), School of Cognitive Science
           company_url: 'https://scs.ipm.ac.ir/learningmemlb.jsp'
-          company_logo: IPM_logo
+          company_logo: ipm_logo
           location: Iran
-          date_start: '2018-07-01'
+          date_start: '2028-07-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -39,10 +39,10 @@ sections:
         - title: Graduate Student Researcher
           company: Centre For Convergent Technologies Research, University of Tehran
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          company_logo: nbic-logo
+          location: Iran
+          date_start: '2020-12-01'
+          date_end: '2023-04-01'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
