@@ -99,7 +99,7 @@
     <div class="row">
 
       {{ with $person.interests }}
-      <div class="col-md-7">
+      <div class="col-md-60">
         <div class="section-subheading">{{ i18n "interests" | markdownify }}</div>
         <ul class="ul-interests fa-ul mb-0">
           {{ range . }}
@@ -113,7 +113,7 @@
       {{ end }}
 
       {{ with $person.education }}
-      <div class="col-md-5">
+      <div class="col-md-40">
         <div class="section-subheading">{{ i18n "education" | markdownify }}</div>
         <ul class="ul-edu fa-ul mb-0">
           {{ range .courses }}
