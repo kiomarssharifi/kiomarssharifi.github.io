@@ -1,6 +1,6 @@
 img,
 video {
-  height: auto;
+  height: 100%;
   max-width: 100%;
   display: block;
 }
@@ -46,7 +46,7 @@ video {
 
 figure {
   img {
-    // height: auto;
+    height: auto;
     max-width: 100%;
   }
 
