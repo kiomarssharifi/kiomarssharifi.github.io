@@ -26,7 +26,7 @@
   <div class="article-metadata">
     {{ if $item.Params.authors }}
     <div>
-      {{ partial "page_metadata_authors" $item }}
+      {{ partial "page_metadata_authors" $item | markdownify | emojify }}
     </div>
     {{ end }}
     <span>
