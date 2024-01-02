@@ -21,7 +21,7 @@ sections:
         featured_only: true
     design:
       columns: '1'
-      view: card
+      view: card-custom
   - block: experience
     content:
       title: Experience
