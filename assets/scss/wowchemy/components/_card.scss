@@ -3,7 +3,7 @@
  **************************************************/
 
 .card-simple {
-  background: #000000;
+  background: #fff;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
   border: 1px solid rgba(0, 0, 0, 0.09);
   border-radius: 3px;
@@ -43,7 +43,7 @@ a.summary-link {
 .card .card-image {
   display: block;
   position: relative;
-  min-height: 100px;
+  min-height: 1000px;
 }
 
 .card .section-subheading {
