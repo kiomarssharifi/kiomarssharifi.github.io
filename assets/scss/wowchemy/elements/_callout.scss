@@ -35,8 +35,7 @@ div.alert > div:first-child::before {
   font-weight: 900;
   content: '\f05a';
   width: 1.5rem;
-  text-align: justify;
-  text-justify: auto;
+  text-align: center;
 }
 
 div.alert-warning > div:first-child::before {

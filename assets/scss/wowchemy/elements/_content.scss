@@ -101,6 +101,8 @@
   // If any unresponsive embeds still remain in the article, prevent article overflow and DIV scrolling.
   // Note that lazy-loaded images, e.g. Gallery, may cause scrollable Y-overflow if only X-overflow is hidden pre-load.
   overflow: hidden;
+  text-align: justify;
+  text-justify: auto;
 
   // Word wrap text content.
   @include word-wrap;
