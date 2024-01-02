@@ -10,7 +10,7 @@ publishDate: '2024-01-01T07:48:28.645657Z'
 publication_types: ["article-journal"]
 publication: '**Cerebral Cortex**'
 publication_short: '**Cerebral Cortex**'
-abstract: This research investigates how monkeys' brains respond to objects with different reward values during visual search tasks. It finds that efficient target recognition is linked to enhanced spatial processing in the brain's ventrolateral prefrontal cortex, with larger neural receptive fields corresponding to more effective searches. This aligns with predictions from the Multi-Alternative Attention-modulated Drift Diffusion Model, highlighting a connection between neural activity and visual search efficiency.
+abstract: This study uses fMRI to explore how humans remember the value of objects over time. Initially, brain regions involved in value memory, like the occipital and prefrontal areas, show strong activation, but this diminishes over days, except in the ventral temporal area. Long-term value memory is also encoded in subcortical regions, linked to memory performance. The study highlights the changing neural basis of value memory in humans, with implications for understanding habit formation.
 tags: []
 featured: true
 links:
@@ -24,5 +24,4 @@ image:
   caption: ''
   focal_point: ''
   preview_only: true
-
 ---
