@@ -23,12 +23,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Research Assistant
+          company: Institute for Research in Fundamental Sciences (IPM), School of Cognitive Science
+          company_url: 'https://scs.ipm.ac.ir/learningmemlb.jsp'
+          company_logo: IPM_logo
+          location: Iran
+          date_start: '2018-07-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -36,8 +36,8 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Graduate Student Researcher
+          company: Centre For Convergent Technologies Research, University of Tehran
           company_url: ''
           company_logo: org-x
           location: California
