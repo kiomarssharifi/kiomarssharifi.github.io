@@ -1,5 +1,5 @@
 ---
-title: 'Enhancing Implicit Mentalizing in Autism Spectrum Disorder with Theta-burst stimulation of the Right Temporoparietal Junction: A Randomized Sham-controlled Double-blind Crossover Study'
+title: 'Enhancing Implicit Mentalizing in Autism Spectrum Disorder with Theta-burst stimulation of the Right Temporoparietal Junction: A Randomized Sham controlled Double-blind Crossover Study'
 authors:
   - AH Hallajian
   - F Dehghani-Arani
