@@ -30,12 +30,7 @@ sections:
           location: Iran
           date_start: '2028-07-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: ''
         - title: Graduate Student Researcher
           company: Centre For Convergent Technologies Research, University of Tehran
           company_url: 'https://utnbic.ir/en'
@@ -43,7 +38,15 @@ sections:
           location: Iran
           date_start: '2020-12-01'
           date_end: '2023-04-01'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: ''
+        - title: Co-Founder and Technical Lead
+          company: Cardano Trader
+          company_url: 'https://utnbic.ir/en'
+          company_logo: cardano-logo
+          location: Iran
+          date_start: '2029-06-01'
+          date_end: '2021-11-01'
+          description: ''
     design:
       columns: '2'
   - block: collection
