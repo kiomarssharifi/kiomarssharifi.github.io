@@ -46,9 +46,8 @@ video {
 
 figure {
   img {
-    height: 100%;
-    object-fit: cover;
-    width: auto; /* Adjusts the width automatically */
+    height: auto;
+    max-width: 100%;
   }
 
   figcaption {
@@ -56,7 +55,7 @@ figure {
     margin-bottom: 1.65rem;
     line-height: 1.4;
     font-size: 0.76rem;
-    text-align: center; // Center figure captions.
+    text-align: justify; // Center figure captions.
   }
 
   figcaption.numbered::before {
