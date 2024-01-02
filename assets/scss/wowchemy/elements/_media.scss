@@ -37,7 +37,7 @@ video {
 
 /* Transform the image scale when container gets hovered */
 .img-hover-zoom:hover img {
-  transform: scale(2.1);
+  transform: scale(1.1);
 }
 
 /*************************************************
@@ -46,8 +46,9 @@ video {
 
 figure {
   img {
-    height: auto;
-    max-width: 100%;
+    height: 100%;
+    object-fit: cover;
+    width: auto; /* Adjusts the width automatically */
   }
 
   figcaption {
