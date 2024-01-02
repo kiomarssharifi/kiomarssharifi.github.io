@@ -14,8 +14,8 @@ authors:
 date: '2023-12-01'
 publishDate: '2023-12-01T07:48:28.645657Z'
 publication_types: ["article-journal"]
-publication: '**medRxiv**'
-publication_short: '**medRxiv**'
+publication: '**Translational Psychiatry**'
+publication_short: '**Translational Psychiatry**'
 abstract: A study on OCD treatment tested transcranial direct current stimulation (tDCS) on 39 patients, comparing sham, 1-mA, and 2-mA intensities. The 2-mA stimulation significantly improved OCD symptoms, anxiety, depression, and cognitive functions, while 1-mA showed milder benefits. The study suggests intensified tDCS, especially at 2-mA, as a promising approach for OCD therapy.
 tags: []
 featured: true
