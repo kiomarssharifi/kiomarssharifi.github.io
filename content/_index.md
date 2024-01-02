@@ -20,7 +20,7 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '1'
+      columns: '2'
       view: card
   - block: experience
     content:
