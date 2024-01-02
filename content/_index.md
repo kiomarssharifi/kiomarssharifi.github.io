@@ -38,7 +38,7 @@ sections:
               * Deploying
         - title: Graduate Student Researcher
           company: Centre For Convergent Technologies Research, University of Tehran
-          company_url: ''
+          company_url: 'https://utnbic.ir/en'
           company_logo: nbic-logo
           location: Iran
           date_start: '2020-12-01'
