@@ -11,7 +11,7 @@ authors:
   - B Glinski
   - CM Vicario
   - MA Nitsche
-date: '2023-12-01'
+date: '2024-01-01'
 publishDate: '2023-12-01T07:48:28.645657Z'
 publication_types: ["article-journal"]
 publication: '**Translational Psychiatry**'
