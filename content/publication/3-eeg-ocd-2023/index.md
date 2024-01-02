@@ -6,8 +6,7 @@ authors:
   - K Barzegar Jalali
   - A Pouresmali
   - '<u>**K Sharifi**</u>'
-  - '...'
-  - MA Nitsche
+  -  ... MA Nitsche
 date: '2024-01-01'
 publishDate: '2023-12-01T07:48:28.645657Z'
 publication_types: ["article-journal"]
