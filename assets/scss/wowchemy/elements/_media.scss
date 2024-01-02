@@ -1,8 +1,7 @@
-img,
-video {
+img, video {
   height: 100%;
-  max-width: 100%;
-  display: block;
+  object-fit: cover;
+  width: auto; /* Adjusts the width automatically */
 }
 
 audio {
