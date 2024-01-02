@@ -22,7 +22,7 @@ url_pdf: https://www.biorxiv.org/content/10.1101/2023.03.17.533079v2.full.pdf
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: ''
-  focal_point: ""
+  focal_point: 'Right'
   preview_only: false
 
 ---
