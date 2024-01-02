@@ -2,7 +2,7 @@
 title: Cortical and subcortical substrates of minutes and days-long object value memory in humans
 authors:
   - S Farmani
-  - '**K Sharifi**'
+  - '<u>**K Sharifi**</u>'
   - A Ghazizadeh
 date: '2024-01-01'
 publishDate: '2024-01-01T07:48:28.645657Z'
