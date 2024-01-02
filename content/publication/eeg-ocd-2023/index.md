@@ -1,5 +1,5 @@
 ---
-title: Targeting the prefrontal-supplementary motor network in obsessive-compulsive disorder with intensified electrical stimulation in two dosages: A randomized, controlled trial
+title: Targeting the prefrontal-supplementary motor network in obsessive-compulsive disorder with intensified electrical stimulation in two dosages - A randomized, controlled trial
 authors:
   - J Alizadehgoradel
   - B Molaei
