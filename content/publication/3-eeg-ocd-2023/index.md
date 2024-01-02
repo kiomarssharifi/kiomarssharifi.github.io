@@ -5,7 +5,7 @@ authors:
   - B Molaei
   - K Barzegar Jalali
   - A Pouresmali
-  - K Sharifi
+  - '**K Sharifi**'
   - AH Hallajian
   - V Nejati
   - B Glinski
