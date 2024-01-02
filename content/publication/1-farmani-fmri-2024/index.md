@@ -1,6 +1,5 @@
 ---
-title: Cortical and subcortical substrates of minutes and days-long object value memory
-  in humans
+title: Cortical and subcortical substrates of minutes and days-long object value memory in humans
 authors:
   - S Farmani
   - '**K Sharifi**'

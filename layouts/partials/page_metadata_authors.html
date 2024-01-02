@@ -4,7 +4,7 @@
 {{ if .Param $taxonomy }}
   {{ range $index, $value := (.GetTerms $taxonomy) }}
     {{- /* Highlight the author's name? */ -}}
-    {{- $highlight_name := .Page.Params.highlight_name | default false -}}
+    {{- $highlight_name := .Page.Params.highlight_name | default true -}}
 
     {{- if gt $index 0 }}, {{ end -}}
     <span {{ if $highlight_name }}class="author-highlighted"{{end}}>
