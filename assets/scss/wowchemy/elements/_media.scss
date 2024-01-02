@@ -1,7 +1,7 @@
 img, video {
   height: 100%;
-  object-fit: cover;
-  width: auto; /* Adjusts the width automatically */
+  max-width: 100%;
+  display: block;
 }
 
 audio {
