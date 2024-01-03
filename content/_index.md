@@ -68,7 +68,7 @@ sections:
         folders:
           - event
     design:
-      columns: '2'
+      columns: '1'
       view: compact
   - block: portfolio
     id: projects

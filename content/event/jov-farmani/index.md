@@ -4,7 +4,7 @@ title: Exploring the Neural Bases of Stable Value Learning and Memory of Objects
 event: Journal of Vision
 event_url: https://jov.arvojournals.org/article.aspx?articleid=2784449
 
-location: Vision Sciences Society Annual Meeting
+location: Journal of Vision
 address:
   street: 
   city: 

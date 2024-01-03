@@ -4,7 +4,7 @@ title: Value-driven efficient search is accompanied by differential visual proce
 event: Journal of Vision
 event_url: https://jov.arvojournals.org/article.aspx?articleid=2777216
 
-location: Vision Sciences Society Annual Meeting
+location: Journal of Vision
 address:
   street: 
   city: 
@@ -19,7 +19,7 @@ abstract: Efficient search (small search slope) is often attributed to pop-out e
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2021-09-01'
 date_end: 
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2021-09-01'
