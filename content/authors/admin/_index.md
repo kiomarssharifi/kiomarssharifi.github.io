@@ -93,15 +93,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?hl=en&user=66x2RX0AAAAJ
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/KiomarsSharifi
     label: Follow me on Twitter
     display:
       header: true
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=66x2RX0AAAAJ
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
