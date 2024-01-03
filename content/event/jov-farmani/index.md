@@ -1,6 +1,9 @@
 ---
 title: Exploring the Neural Bases of Stable Value Learning and Memory of Objects in Humans Using fMRI and EEG
-
+authors:
+  - S Farmani
+  - '<u>**K Sharifi**</u>'
+  - A Ghazizadeh
 event: Journal of Vision
 event_url: https://jov.arvojournals.org/article.aspx?articleid=2784449
 
@@ -23,7 +26,6 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-12-01'
 
-authors: []
 tags: []
 
 # Is this a featured talk? (true/false)

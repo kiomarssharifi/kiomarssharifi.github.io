@@ -1,6 +1,9 @@
 ---
 title: Value-driven efficient search is accompanied by differential visual processing area for high- vs low-value objects
-
+authors:
+  - '<u>**K Sharifi**</u>'
+  - A Khoshvishkaie
+  - A Ghazizadeh
 event: Journal of Vision
 event_url: https://jov.arvojournals.org/article.aspx?articleid=2777216
 
@@ -24,7 +27,6 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2021-09-01'
 
-authors: 
 tags: []
 
 # Is this a featured talk? (true/false)
