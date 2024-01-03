@@ -105,7 +105,7 @@ social:
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
-  - icon: linkedin
+  - icon: linkedin-in
     icon_pack: fab
     link: https://www.linkedin.com/in/kiomars-sharifi/
   # Link to a PDF of your resume/CV.
