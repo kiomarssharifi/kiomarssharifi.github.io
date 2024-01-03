@@ -69,7 +69,8 @@ sections:
           - event
     design:
       columns: '1'
-      view: compact
+      view: showcase
+      flip_alt_rows: false
   - block: portfolio
     id: projects
     content:
