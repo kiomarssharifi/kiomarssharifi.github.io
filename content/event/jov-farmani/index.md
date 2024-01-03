@@ -1,8 +1,8 @@
 ---
-title: Value-driven efficient search is accompanied by differential visual processing area for high- vs low-value objects
+title: Exploring the Neural Bases of Stable Value Learning and Memory of Objects in Humans Using fMRI and EEG
 
 event: Journal of Vision
-event_url: https://jov.arvojournals.org/article.aspx?articleid=2777216
+event_url: https://jov.arvojournals.org/article.aspx?articleid=2784449
 
 location: Vision Sciences Society Annual Meeting
 address:
@@ -12,17 +12,16 @@ address:
   postcode: 
   country: 
 
-summary: This study explores how value-driven training influences efficient search in non-human primates. By training monkeys with fractals associated with different rewards, the research finds that extended training enhances visual processing for higher-value targets, affecting search behavior. This suggests a complex interaction between reward history and decision-making in visual search, potentially impacting neuron receptive fields in the brain, a topic for future research.
-abstract: Efficient search (small search slope) is often attributed to pop-out effects that result from low-level visual features. In contrast, we have recently shown that with adequate reward training, non-human primates efﬁciently search for a high-value target among low-value distractors (target-present trials) regardless of basic low-level features (Ghazizadeh et al. 2016). However, the mechanism of value driven efficient search is not known. In this study, we try to address this issue in the context of a simultaneous decision-making problem. In particular, we utilize a multi-alternative drift-diffusion (MADD) model with various parameters to model decision noise, attention and decision threshold to fit search times in both value-driven target present and target absent trials. To this end, behavioral data of four macaque monkeys trained with a large number of (>300) random fractals which were arbitrarily associated with small or large rewards (i.e., "bad" or "good" objects, respectively) for varying training durations (1-day, 5-days and 30 days) were analyzed. We applied dynamic programming to fit several parametrization schemes of MADD to the data and assessed its performance using cross validation. Preliminary results indicate that longer reward training increases visual processing area differentially for good vs bad objects without significant changes in decision noise or decision threshold. Consistent with this, longer reward training increased the percentage of long-range saccades toward the good objects. Also consistently, the reduction of search slope is only observed for target-present but not target absent trials (search asymmetry). These effects expose a rich, dynamic interaction between reward history and decision making during visual search that is not necessarily explained by classical low-level guiding features. These results suggest that long-term value training may have modified the spatial extent neurons' receptive field in the ventral stream with larger effects for more valuable objects, a speculation that remains to be tested in the future.
-
+summary: This research investigates human long-term value memory using fMRI and EEG. Participants learned to associate fractals with rewards. Key findings show that certain brain areas are involved in both immediate and long-term memory of these associations, providing insights into memory processes and behaviors like addiction.
+abstract: Many of our decisions are shaped by previously learned values of objects. Despite a great deal of knowledge gained from recent investigations in nonhuman primates (NHPs) (Ghazizadeh et al., 2018, 2021), the neural underpinnings of long-term value memory in humans are not clearly understood. Here, we aimed to address this question in humans using fMRI and EEG. We devised a learning procedure in which participants were trained for three days to learn the value of 40 random abstract fractals. Each fractal was arbitrarily chosen to be associated with a reward or no reward (good vs. bad objects, respectively). The visual discrimination of good and bad objects in the brain was tested before, immediately after the training and a few days or weeks later using fMRI and EEG. Behaviorally, we found well-preserved memories for at least one day after the completion of training sessions, which fade across days and weeks. Our fMRI results indicate that immediately after the training, temporal and parietal areas are involved in good/bad object discrimination in passive viewing. In addition, a long-term value memory of objects is observed in the striatum and orbitofrontal cortex, days after the training. Our EEG results show that following the value training sessions, differential responses to good versus bad objects are elicited in the parietal and temporal cortex. These findings shed light on the neural basis of long-term value-based memories with implications for maladaptive behaviors such as drug addiction and for cross-species comparisons with NHP.
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2021-09-01T13:00:00Z'
+date: '2022-12-01'
 date_end: 
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2021-09-01T13:00:00Z'
+publishDate: '2022-12-01'
 
 authors: []
 tags: []
@@ -34,7 +33,7 @@ image:
   caption: 
   focal_point: 
 
-url_code: 'https://jov.arvojournals.org/article.aspx?articleid=2777216'
+url_code: 'https://jov.arvojournals.org/article.aspx?articleid=2784449'
 url_pdf: ''
 url_slides: ''
 url_video: ''
