@@ -40,7 +40,7 @@ links:
   - name: URL
     url: 'https://jov.arvojournals.org/article.aspx?articleid=2777216'
   - icon: doi
-    icon_pack: academicons
+    icon_pack: ai
     name: 'DOI'
     url: 'https://doi.org/10.1167/jov.21.9.2491'
 url_code: ''
