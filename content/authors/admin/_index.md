@@ -115,7 +115,7 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
     display:
-      header: true
+      header: false
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
