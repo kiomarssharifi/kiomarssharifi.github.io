@@ -35,7 +35,10 @@ image:
   caption: 
   focal_point: 
 
-url_code: 'https://jov.arvojournals.org/article.aspx?articleid=2784449'
+links:
+- name: URL
+  url: 'https://jov.arvojournals.org/article.aspx?articleid=2784449'
+url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
