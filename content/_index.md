@@ -68,8 +68,8 @@ sections:
         folders:
           - event
     design:
-      columns: '1'
-      view: showcase
+      columns: '2'
+      view: card
       flip_alt_rows: false
   - block: portfolio
     id: projects
