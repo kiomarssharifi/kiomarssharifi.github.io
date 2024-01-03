@@ -37,11 +37,12 @@ image:
   focal_point: 
 
 links:
-- name: URL
-  url: 'https://jov.arvojournals.org/article.aspx?articleid=2777216'
-- name: DOI
-  icon: academicons/doi
-  url: 'https://doi.org/10.1167/jov.21.9.2491'
+  - name: URL
+    url: 'https://jov.arvojournals.org/article.aspx?articleid=2777216'
+  - icon: doi
+    icon_pack: academicons
+    name: ''
+    url: 'https://doi.org/10.1167/jov.21.9.2491'
 url_code: ''
 url_pdf: ''
 url_slides: ''
