@@ -18,7 +18,7 @@ abstract: Many of our decisions are shaped by previously learned values of objec
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-12-01'
 date_end: 
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-12-01'
