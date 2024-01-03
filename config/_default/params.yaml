@@ -16,17 +16,17 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: 'Kiomars Sharifi - Neuroscience Researcher - Sharif University of Technology'
+    local_business_type: ''
     org_name: ''
-    description: ''
-    twitter: 'GetResearchDev'
+    description: 'Kiomars Sharifi - Neuroscience Researcher - Sharif University of Technology'
+    twitter: 'KiomarsSharifi'
   analytics:
     google_analytics: 'G-6WG93JE622'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: 'nuXdmBooHaa41Bb_s8Ssk-l-SZl_wRS_B_fQRC-5rGs'
+    google: ''
     baidu: ''
 
 # Site header

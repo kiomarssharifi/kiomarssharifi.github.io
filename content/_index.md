@@ -12,6 +12,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -50,7 +51,7 @@ sections:
     design:
       columns: '2'
   - block: collection
-    id: featured
+    id: publications
     content:
       title: Publications
       filters:
@@ -61,7 +62,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
-    id: talks
+    id: conference
     content:
       title: Conference Highlights
       filters:
