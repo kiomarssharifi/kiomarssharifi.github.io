@@ -22,6 +22,8 @@ featured: true
 links:
 - name: URL
   url: https://www.medrxiv.org/content/10.1101/2023.12.01.23299285v1
+  - name: DOI
+    url: 'https://doi.org/10.1101/2023.12.01.23299285'
 url_pdf: https://www.medrxiv.org/content/10.1101/2023.12.01.23299285v1.full.pdf
 
 # Featured image

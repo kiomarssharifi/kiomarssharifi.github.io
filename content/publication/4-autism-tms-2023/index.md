@@ -18,8 +18,10 @@ abstract: This study explores using theta-burst stimulation on the right temporo
 tags: []
 featured: true
 links:
-- name: URL
-  url: https://www.researchsquare.com/article/rs-2995235/v1
+  - name: URL
+    url: https://www.researchsquare.com/article/rs-2995235/v1
+  - name: DOI
+    url: 'https://doi.org/10.21203/rs.3.rs-2995235/v1'
 url_pdf: https://assets.researchsquare.com/files/rs-2995235/v1_covered_b60516bd-ffc2-4628-9480-25fe4e61e7bf.pdf?c=1691995044
 
 # Featured image
