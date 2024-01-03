@@ -117,9 +117,6 @@ sections:
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: sharifikiomars@gmail.com
-      phone: +98 912 638 7148
-      appointment_url: 'https://calendly.com'
-      # Choose a map provider in `params.yaml` to show a map from these coordinates 
       contact_links:
         - icon: twitter
           icon_pack: fab
