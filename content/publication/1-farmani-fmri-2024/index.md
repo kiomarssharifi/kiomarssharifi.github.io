@@ -14,9 +14,9 @@ tags: []
 featured: true
 links:
 - name: URL
-  url: https://www.biorxiv.org/content/10.1101/2023.03.17.533079.abstract
+  url: https://academic.oup.com/cercor/advance-article-abstract/doi/10.1093/cercor/bhae006/7577294?redirectedFrom=fulltext
 - name: DOI
-  url: https://doi.org/10.1101/2023.03.17.533079
+  url: https://doi.org/10.1093/cercor/bhae006
 url_pdf: https://www.biorxiv.org/content/10.1101/2023.03.17.533079v2.full.pdf
 
 # Featured image
