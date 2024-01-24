@@ -13,7 +13,7 @@ abstract: This study uses fMRI to explore how humans remember the value of objec
 tags: []
 featured: true
 links:
-- name: URL
+- name: Journal
   url: https://academic.oup.com/cercor/advance-article/doi/10.1093/cercor/bhae006/7577294?utm_source=authortollfreelink&utm_campaign=cercor&utm_medium=email&guestAccessKey=38fe12c8-beb2-4e62-aa3c-0ac2f52b41ea
 - name: DOI
   url: https://doi.org/10.1093/cercor/bhae006
