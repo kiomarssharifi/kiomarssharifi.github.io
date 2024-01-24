@@ -123,8 +123,8 @@ highlight_name: true
 
   I'm **Kiomars Sharifi**, a recent **M.Sc.** graduate in **Biomedical Engineering** from **Sharif University**, specializing in **neuroscience and AI**.
 
-  My current research focuses on exploring how the brain processes **visual information** and recognizes objects of **value** in our environment.
+  My current research focuses on exploring how the brain processes **visual information** and recognizes objects' **value** in our environment.
 
-  My goal is to create technologies that improve the lives of individuals with neurological disabilities, using **brain-computer interfaces** and **neuroprosthetics**.
+  My goal is to develope technologies that improve the lives of individuals with neurological disabilities, using **brain-computer interfaces** and **neuroprosthetics**.
 
   Join me in exploring the intersection of technology and the human mind.
