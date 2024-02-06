@@ -12,8 +12,8 @@ authors:
 date: '2023-07-01'
 publishDate: '2023-12-01T07:48:28.645657Z'
 publication_types: ["article-journal"]
-publication: '**Research Square - Submitted to iBrain**'
-publication_short: '**Research Square - Submitted to iBrain**'
+publication: '**under revision for iBrain**'
+publication_short: '**under revision for iBrain**'
 abstract: This study explores using theta-burst stimulation on the right temporoparietal junction to improve theory of mind in children and adolescents with high-functioning autism. It found that this technique significantly enhanced implicit mentalizing abilities without affecting egocentric bias, suggesting the right temporoparietal junction as a potential therapy target for autism.
 tags: []
 featured: true
