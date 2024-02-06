@@ -20,7 +20,7 @@ abstract: A study on OCD treatment tested transcranial direct current stimulatio
 tags: []
 featured: true
 links:
-  - name: URL
+  - name: Journal
     url: https://www.nature.com/articles/s41398-024-02736-y
   - name: DOI
     url: 'https://doi.org/10.1038/s41398-024-02736-y'
